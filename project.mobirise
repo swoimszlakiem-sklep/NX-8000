@@ -57,7 +57,7 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "sxxiuoddiu",
+    "mbrsiteDomain": "eegtpo9w6q",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -66,7 +66,7 @@
       "customDialogSelector": false,
       "colorText": "#424a4d",
       "colorBg": "#ffffff",
-      "colorButton": "#17003b",
+      "colorButton": "#fff7f0",
       "rejectColor": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
@@ -77,7 +77,7 @@
     },
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#17003b",
+      "colorLink": "#fff7f0",
       "underlineLink": true,
       "text": "W celu kontynuowania potwierdź nasz <a href='https://swoimszlakiem-sklep.pl/help-center/regulation'>Regulamin sklepu</a> i <a href='https://swoimszlakiem-sklep.pl/help-center/privacy-policy'>Politykę prywatności</a>."
     },
